@@ -1,11 +1,13 @@
 ### Hi there 👋
 
-
 ## Github Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=DJagad)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Github Streaks
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DJagad)](https://git.io/streak-stats)
+
+## Github Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DJagad)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **DJagad/DJagad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
