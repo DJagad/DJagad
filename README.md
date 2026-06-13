@@ -163,7 +163,7 @@ I hold an **M.S. in Artificial Intelligence** from San Jose State University and
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=DJagad&show_icons=true&hide_border=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DJagad&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Top Languages"/>
 
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=DJagad&hide_border=true&theme=tokyonight" alt="GitHub Streak"/>
+<img height="165" src="https://streak-stats.demolab.com/?user=DJagad&hide_border=true&theme=tokyonight" alt="GitHub Streak"/>
 
 </div>
 
@@ -187,13 +187,13 @@ I hold an **M.S. in Artificial Intelligence** from San Jose State University and
 
 </div>
 
-### 🏆 Trophies
+### ⏱️ Weekly Coding Breakdown
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=DJagad&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" alt="Trophies"/>
-
-</div>
+<!--START_SECTION:waka-->
+```text
+Connect WakaTime to populate this section automatically.
+```
+<!--END_SECTION:waka-->
 
 ---
 
