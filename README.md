@@ -187,14 +187,6 @@ I hold an **M.S. in Artificial Intelligence** from San Jose State University and
 
 </div>
 
-### ⏱️ Weekly Coding Breakdown
-
-<!--START_SECTION:waka-->
-```text
-Connect WakaTime to populate this section automatically.
-```
-<!--END_SECTION:waka-->
-
 ---
 
 ## 🎓 Education & Certifications
